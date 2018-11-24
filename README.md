@@ -1,3 +1,4 @@
+# EconomyBank
 このプラグインはライセンス LGPL v3に基づき
 naraponがbankを使用する際にお金が増えてしまう不具合を
 修正したものです
