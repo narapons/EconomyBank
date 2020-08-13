@@ -8,3 +8,5 @@ naraponがbankを使用する際にお金が増えてしまう不具合を
 
 修正したプラグイン
 https://github.com/pjz9n/EconomyBank
+
+※現在は本家で修正されています
